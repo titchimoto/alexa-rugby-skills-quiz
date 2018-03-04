@@ -7,748 +7,1611 @@ module.exports = {
      */
     QUESTIONS_EN_GB: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'Who won the ninteen eighty-seven Rugby World Cup?': [
+                'New Zealand',
+                'France',
+                'Wales',
+                'Australia',
+                'England',
             ],
         },
         {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
-                'Canada',
-                'Norway',
+            'Who won the ninteen ninety Rugby World Cup?': [
+                'Australia',
+                'England',
+                'New Zealand',
+                'Scotland',
+                'South Africa',
+            ],
+        },
+        {
+            'Who won the ninteen ninety-five Rugby World Cup?': [
+                'South Africa',
+                'New Zealand',
+                'France',
+                'England',
+            ],
+        },
+        {
+            'Who won the ninteen ninety-nine Rugby World Cup?': [
+                'Australia',
+                'France',
+                'South Africa',
+                'New Zealand',
+            ],
+        },
+        {
+            'Who won the two thousand and three Rugby World Cup?': [
+                'England',
+                'Australia',
+                'New Zealand',
                 'France',
             ],
         },
         {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
+            'Who won the two thousand and seven Rugby World Cup?': [
+                'South Africa',
+                'England',
+                'Argentina',
+                'France',
             ],
         },
         {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
+            'Who won the two thousand and eleven Rugby World Cup?': [
+                'New Zealand',
+                'France',
+                'Australia',
+                'Wales',
             ],
         },
         {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
+            'Who won the two thousand and fifteen Rugby World Cup?': [
+                'New Zealand',
+                'Australia',
+                'South Africa',
+                'Argentina',
             ],
         },
         {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
+            'Where was the ninteen ninety five Rugby World Cup played?': [
+                'South Africa',
+                'England',
+                'USA',
+                'Japan',
             ],
         },
         {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
+            'Who hosted the two thousand and seven Rugby World Cup?': [
+                'France',
+                'England',
+                'Australia',
+                'Wales',
             ],
         },
         {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
+            'Who hosted the two thousand and eleven Rugby World Cup?': [
+                'New Zealand',
+                'Australia',
+                'England',
+                'South Afria',
+                'Germany'
             ],
         },
         {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
+            'Who hosted the two thousand and three Rugby World Cup?': [
+                'Australia',
+                'South Africa',
+                'New Zealand',
+                'England',
             ],
         },
         {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
+            'Which nation has won the Rugby World Cup the most times?': [
+                'New Zealand',
+                'South Africa',
+                'Australia',
+                'England',
             ],
         },
         {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J K  Rowling',
+            'Which country has been the Rugby World Cup runner up the most number of times?': [
+                'France',
+                'England',
+                'Australia',
+                'New Zealand',
             ],
         },
         {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
+            'How many times have France been runners up in the Rugby World Cup?': [
+                'three',
+                'two',
+                'one',
+                'four',
             ],
         },
         {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
+            'Which country scored the most points in a single Rugby World Cup match?': [
+                'New Zealand',
+                'South Africa',
+                'Australia',
+                'France',
             ],
         },
         {
-            'Including Rudolph, how many reindeer hooves are there?': [
-                '36',
-                '24',
-                '16',
-                '8',
+            'How many points is the highest points scored in a Rugby World Cup match?': [
+                'one hundred and forty five',
+                'one hundred and twelve',
+                'one hundred and forty',
+                'one hundred and twenty five',
             ],
         },
         {
-            'Santa only has one female reindeer, Which one is it?': [
-                'Vixen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
+            'How many points in the biggest winning margin in a Rugby World Cup match?': [
+                'one hundred and forty two',
+                'one hundred and thirty',
+                'one hundred and one',
+                'one hundred and fifteen',
             ],
         },
         {
-            'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
+            'Which country won by the biggest margin in a Rugby World Cup match?': [
+                'Australia',
+                'South Africa',
+                'New Zealand',
+                'England',
             ],
         },
         {
-            'What was Rudolph\'s father\'s name?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
+            'Which player is the highest points scorer in Rugby World Cup history?': [
+                'Johnn Wilkinson',
+                'Gavin Hastings',
+                'Dan Carter',
+                'Michael Lynagh',
             ],
         },
         {
-            'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
+            'Who has scored the most successful drop goals in Rugby World Cup history?': [
+                'Johnny Wilkinson',
+                'Dan Carter',
+                'Michael Lynagh',
+                'Johnny Sexton',
             ],
         },
         {
-            'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
+            'Which player has kicked the most successful penalties in Rugby World Cup history?': [
+                'Johnny Wilkinson',
+                'Dan Carter',
+                'Michael Lynagh',
+                'Grant Fox',
             ],
         },
         {
-            'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-                'Black mud',
-                'Bag',
-                'Pillow case',
-                'Sock',
+            'Which player has scored the most points in a single Rugby World Cup match?': [
+                'Gavin Hastings',
+                'Matt Rogers',
+                'Dan Carter',
+                'Johnny Wilkinson',
             ],
         },
         {
-            'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-                'Dentist',
-                'Reindeer',
-                'Toy maker',
-                'Candlestick maker',
+            'Which played is tied with Jonah Lomu as top try score across all Rugby World Cups?': [
+                'Bryan Habana',
+                'Drew Mitchell',
+                'Adam Ashley-Cooper',
+                'Doug Howlett',
             ],
         },
         {
-            'In the 1964 movie,what was the Bumble\'s one weakness?': [
-                'Could not swim',
-                'Always hungry',
-                'Candy canes',
-                'Cross eyed',
+            'Along with Bryan Habana and Jonah Lomu, who is the only other player to have scored 8 tries in one Rugby World Cup tournament?': [
+                'Julian Savea',
+                'Marc Ellis',
+                'Drew Mitchell',
+                'Joe Rokocoko',
             ],
         },
         {
-            'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-                'Peppermint',
-                'Gold',
-                'India',
-                'Polar Bears',
+            'Who was the youngest try scorer in a Rugby World Cup game?': [
+                'George North',
+                'Jonah Lomu',
+                'Francois Steyn',
+                'Josh Lewsey',
             ],
         },
         {
-            'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-                'Square wheels',
-                'No Engine',
-                'Paint does not match',
-                'It does not toot',
+            'Which player has kicked the most successful conversions in Rugby World Cup history?': [
+                'Dan Carter',
+                'Gavin Hastings',
+                'Johnny Wilkinson',
+                'Michael Lynagh',
             ],
         },
         {
-            'In the 1964 movie, what is the name of the Jack in the Box?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
+            'Which player along with Richie McCaw has made the most appearances in the final stages of the Rugby World Cup?': [
+                'Jason Leonard',
+                'George Gregan',
+                'Schalk Burger',
+                'Dan Carter',
             ],
         },
         {
-            'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-                'Storm',
-                'No snow',
-                'No toys',
-                'The Reindeer were sick',
+            'Which player has made the most winning appearences in the final stages of the Rugby World Cup?': [
+                'Richie McCaw',
+                'Kevin Mealamu',
+                'Jason Leonard',
+                'George Gregan',
             ],
         },
         {
-            'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-                'Oink',
-                'Growl',
-                'Bark',
-                'Meow',
+            'Who is the oldest player to play in a Rugby World Cup match?': [
+                'Brad Thorn',
+                'Richie McCaw',
+                'Jason Leonard',
+                'George Gregan',
             ],
         },
         {
-            'In the 1964 movie, what is the name of the prospector?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
+            'Who is the oldest player to win a Rugby World Cup?': [
+                'Brad Thorn',
+                'Jason Leonard',
+                'Richie McCaw',
+                'Matt Dawson',
             ],
         },
         {
-            'How far do reindeer travel when they migrate?': [
-                '3000 miles',
-                '700 miles',
-                '500 miles',
-                '0 miles',
+            'Who is the oldest player to ever appear in a Rugby World Cup match?': [
+                'Diego Ormaechea',
+                'Victor Matfield',
+                'Brad Thorn',
+                'Mauro Bergamasco',
             ],
         },
         {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
+            'Who is the youngest player to win a Rugby World Cup final?': [
+                'Francois Steyn',
+                'Jonah Lomu',
+                'J P Pieterson',
+                'Zac Guildford',
+            ],
+        },
+        {
+            'Who received the first red card in Rugby World Cup history?': [
+                'Huw Richards',
+                'David Codey',
+                'Pedro Sporleder',
+                'Matt Keenan',
+            ],
+        },
+        {
+            'Who is the youngest player to appear in a Rugby World Cup final?': [
+                'Jonah Lomu',
+                'Francois Steyn',
+                'Aaron Cruden',
+                'J P Pieterson',
+            ],
+        },
+        {
+            'In total, how many red cards have been given out in Rugby World Cup history?': [
+                'seventeen',
+                'twelve',
+                'fifteen',
+                'fourteen',
+            ],
+        },
+        {
+            'Which country is equal with Canada for most red cards given in Rugby World cup history?': [
+                'Tonga',
+                'Samoa',
+                'South Africa',
+                'Wales',
+            ],
+        },
+        {
+            'Which country has scored the most hat-tricks in Rugby World Cup history?': [
+                'New Zealand',
+                'Australia',
+                'France',
+                'England',
+            ],
+        },
+        {
+            'Which match had the highest attendance in Rugby World Cup History?': [
+                'Ireland versus Romania - two thousand and fifteen',
+                'England versus Australia - two thousand and three',
+                'New Zealand versus France - two thousand and seven',
+                'New Zealand versus Argentina - two thousand and fifteen',
+            ],
+        },
+        {
+            'Which stadium was the first to host a Rugby World Cup Final twice?': [
+                'Eden Park',
+                'Twickenham',
+                'Millenium Stadium',
+                'Stadium Australia',
+            ],
+        },
+        {
+            'Who is the all time top points scorer in International Rugby?': [
+                'Dan Carter',
+                'Johnny Wilkinson',
+                'Neil Jenkins',
+                'Ronan O Gara',
+            ],
+        },
+        {
+            'How many points did Dan Carter score in International Rugby?': [
+                'one thousand five hundred and nintety eight',
+                'one thousand and fifty-nine',
+                'one thousand two hundred and seven',
+                'one thousand four hundred and twenty-one',
+            ],
+        },
+        {
+            'Who is top try scorer in International Rugby history?': [
+                'Daisuke Ohata',
+                'David Campese',
+                'Shane Williams',
+                'Rory Underwood',
+            ],
+        },
+        {
+            'Who is the highest scoring forward in International Rugby history?': [
+                'Diego Ormaechea',
+                'Richie McCaw',
+                'Marmuka Gorgodze',
+                'Kieran Reid',
+            ],
+        },
+        {
+            'Who has scored the most drop goals in International Rugby history?': [
+                'Johnny Wilkinson',
+                'Hugo Porta',
+                'Rob Andrew',
+                'Diego Dominguez',
+            ],
+        },
+        {
+            'Who is the leading try scorer in Tier one International Rugby history?': [
+                'Brian Habana',
+                'David Campese',
+                'Shane Williams',
+                'Rory Underwood',
+            ],
+        },
+        {
+            'Who is the most capped played in Rugby Union history?': [
+                'Richie McCaw',
+                'Brian O Driscoll',
+                'George Gregan',
+                'Sergio Parisse',
+            ],
+        },
+        {
+            'Who is the most capped forward in Rugby Union history?': [
+                'Richie McCaw',
+                'Keven Mealamu',
+                'Sergio Parisse',
+                'Gethin Jenkins',
+            ],
+        },
+        {
+            'Who is the most capped back in Rugby Union history?': [
+                'Brian O Driscoll',
+                'George Gregan',
+                'Ronan O Gara',
+                'Brian Habana',
+            ],
+        },
+        {
+            'Which currently still active player appears highest on the all time test caps list?': [
+                'Sergio Parissa',
+                'Alun Wynn Jones',
+                'Brian Habana',
+                'Adam Ashley Cooper',
+            ],
+        },
+        {
+            'Who is highest points scorer in Six Nations history?': [
+                'Ronan O Gara',
+                'Johnny Wilkinson',
+                'Stephen Jones',
+                'Neil Jenkins',
+            ],
+        },
+        {
+            'Who has scored the most tries in the Six Nations?': [
+                'Brian O Driscoll',
+                'Chris Ashton',
+                'Rory Underwood',
+                'Shane Williams',
+            ],
+        },
+        {
+            'Who scored the most number of points in a Six Nations match?': [
+                'Johnny Wilkinson',
+                'Ronan O Gara',
+                'Johnny Sexton',
+                'Lee Halfpenny',
+            ],
+        },
+        {
+            'Which back has the most appearances in the Six Nations?': [
+                'Brian O Driscoll',
+                'Ronan O Gara',
+                'Chris Patterson',
+                'Stephen Jones',
+            ],
+        },
+        {
+            'Which forward has the most appearances in the Six Nations?': [
+                'Sergio Parisse',
+                'Rory Best',
+                'Gethin Jenkins',
+                'Jason Leonard',
+            ],
+        },
+        {
+            'In the Six Nations, which country has 5 players out of the top ten most appearances list?': [
+                'Ireland',
+                'England',
+                'Scotland',
+                'Wales',
+            ],
+        },
+        {
+            'How many tries has Brian O Driscoll scored in the Six Nations?': [
+                'twenty-six',
+                'twenty',
+                'twenty-two',
+                'twenty-four',
+            ],
+        },
+        {
+            'Which nation has won the Six Nations the most times?': [
+                'England',
+                'France',
+                'Wales',
+                'Ireland',
+            ],
+        },
+        {
+            'Along with Wales, which country has won three grand slams in the Six Nations?': [
+                'France',
+                'England',
+                'Ireland',
+                'Scotland',
+            ],
+        },
+        {
+            'In the Six Nations, which country has won the wooden spoon the most?': [
+                'Italy',
+                'Scotland',
+                'Wales',
+                'France',
+            ],
+        },
+        {
+            'Who has scored the most points in Super Rugby history?': [
+                'Dan Carter',
+                'Stirling Mortlock',
+                'Andrew Mehrtens',
+                'Matt Burke',
+            ],
+        },
+        {
+            'Who has scored the most tries in Super Rugby history?': [
+                'Doug Howlett',
+                'Caleb Ralph',
+                'Joe Roff',
+                'Christian Cullen',
+            ],
+        },
+        {
+            'Who has made the most appearances in Super Rugby history?': [
+                'Nathan Sharpe',
+                'Stirling Mortlock',
+                'George Gregan',
+                'Caleb Ralph',
+            ],
+        },
+        {
+            'Who is the oldest player to have played in Super Rugby?': [
+                'Tana Umaga',
+                'Brad Thorn',
+                'Richie McCaw',
+                'Kieran Reid',
+            ],
+        },
+        {
+            'Who is the youngest played to have played in Super Rugby?': [
+                'James O Connor',
+                'Zac Guildford',
+                'Francois Steyn',
+                'Aaron Cruden',
+            ],
+        },
+        {
+            'Which team has won the most Super Rugby titles?': [
+                'Crusaders',
+                'Brumbies',
+                'Blues',
+                'Bulls',
+            ],
+        },
+        {
+            'What is the highest combined score in Super Rugby history?': [
+                'one hundred and thirty seven',
+                'one hundred and two',
+                'one hundred and twenty-one',
+                'one hundred and fifty-two',
+            ],
+        },
+        {
+            'Who scored the fastest try in Super Rugby history?': [
+                'Brian Habana',
+                'Doug Howlett',
+                'Christian Cullen',
+                'Joe Roff',
+            ],
+        },
+        {
+            'Which team scored the most tries in one season of Super Rugby? And how many tries did they score?': [
+                'Hurricanes with ninety-seven',
+                'Crusaders with one hundred and one',
+                'Lions with ninety-two',
+                'Stormers with ninety',
+            ],
+        },
+        {
+            'How many points did Gavin Lawless score in a single game to break the points scored in one Super Rugby match record?': [
+                'fifty',
+                'forty',
+                'forty-four',
+                'forty-seven',
+            ],
+        },
+        {
+            'Which team has won the Aviva Premiership the most number of times?': [
+                'Leicester Tigers',
+                'Bath',
+                'Saracens',
+                'Wasps',
+            ],
+        },
+        {
+            'Which played has most the most appearances in the Aviva Premiership?': [
+                'Steve Borthwick',
+                'George Chuter',
+                'Phil Dowson',
+                'Charlie Hodgson',
+            ],
+        },
+        {
+            'Which player has scored the most points in the Aviva Premiership?': [
+                'Charlie Hodgson',
+                'Andy Goode',
+                'Stephen Myler',
+                'Owen Farrell',
+            ],
+        },
+        {
+            'Who is the top try scorer in the Aviva Premiership?': [
+                'Tom Varndell',
+                'Mark Cueto',
+                'Chris Ashton',
+                'Christian Wade',
+            ],
+        },
+        {
+            'Which Aviva Premiership team plays at Sandy Park?': [
+                'Exeter Chiefs',
+                'Leicester Tigers',
+                'Newcastle Falcons',
+                'Gloucester',
+            ],
+        },
+        {
+            'Who is the heaviest player to have appeared in the Aviva Premiership?': [
+                'Biyi Alo',
+                'James Johnston',
+                'Will Skelton',
+                'Tony Buckley',
+            ],
+        },
+        {
+            'In the Aviva Premiership, who is the only forward to appear on the top ten try scorers list?': [
+                'Neil Back',
+                'Thomas Waldrom',
+                'Nick Easter',
+                'Dan Braid',
+            ],
+        },
+        {
+            'A lion dressed in a roman warrior outfit is the mascot for which Aviva Premiership team?': [
+                'Bath',
+                'Leicester',
+                'London Irish',
+                'Gloucester',
+            ],
+        },
+        {
+            'Which Aviva premiership team has the highest capacity stadium': [
+                'Wasps',
+                'Leicester Tigers',
+                'Gloucester',
+                'Northampton Saints',
+            ],
+        },
+        {
+            'In the Aviva Premiership, how many teams automatically quality for the European Champions Cup?': [
+                'six',
+                'seven',
+                'four',
+                'five',
+            ],
+        },
+        {
+            'How many people are in a scrum?': [
+                'sixteen',
+                'eight',
+                'fourteen',
+                'seven',
+            ],
+        },
+        {
+            'How far must the ball travel from a kick off?': [
+                '10 meters',
+                '15 meters',
+                '5 meters',
+                '20 meters',
+            ],
+        },
+        {
+            'What is the minimum number of players from each team required to form a line out?': [
+                'two players',
+                'one player',
+                'three players',
+                'six players',
+            ],
+        },
+        {
+            'A deliberate forward pass results in a penalty, but an accidental forward pass results in?': [
+                'a scrum',
+                'a penalty',
+                'a free kick',
+                'play on',
+            ],
+        },
+        {
+            'What happens if a player receives a second yellow card?': [
+                'They get sent off for the rest of the match',
+                'They go off for ten minutes',
+                'They go off for fifteen minutes',
+                'Nothing',
+            ],
+        },
+        {
+            'When a referee shouts USE IT, how long do you have to play the ball?': [
+                'five seconds',
+                'three seconds',
+                'two seconds',
+                'four seconds',
+            ],
+        },
+        {
+            'Which of these offences has the longest ban?': [
+                'testicle grabbing',
+                'punching',
+                'eye gouging',
+                'stamping',
+            ],
+        },
+        {
+            'Typically, which number shirt does the replacement hooker wear?': [
+                'sixteen',
+                'seventeen',
+                'eighteen',
+                'nineteen',
+            ],
+        },
+        {
+            'What is the name of the Britsh and Irish Lions lion mascot?': [
+                'Bill',
+                'Leo',
+                'Dave',
+                'Simba',
+            ],
+        },
+        {
+            'Who is the top points scorer for the British and Irish Lions in test matches?': [
+                'Johnny Wilkinson',
+                'Stephen Jones',
+                'Gavin Hastings',
+                'Lee Halfpenny',
+            ],
+        },
+        {
+            'Who is the only New Zealand born player to play for and against the Lions?': [
+                'Riki Flutey',
+                'Mako Vunipola',
+                'Dylan Hartley',
+                'Sean Maitland',
+            ],
+        },
+        {
+            'Which country have the British and Irish Lions played but never beaten?': [
+                'Fiji',
+                'Canada',
+                'France',
+                'Argentina',
+            ],
+        },
+        {
+            'Who captained New Zealand to their three nil whitewash of the Lions in two thousand and five?': [
+                'Tana Umaga',
+                'Dan Carter',
+                'Keven Mealamu',
+                'Richie McCaw',
+            ],
+        },
+        {
+            'Who was the first played to captain the British and Irish Lions on two tours?': [
+                'Martin Johnson',
+                'Sam Warburton',
+                'Brian O Driscoll',
+                'Willie John McBride',
+            ],
+        },
+        {
+            'Who was the last player to represent the British and Irish Lions before even winning their first international cap?': [
+                'Will Greenwood',
+                'Elliot Daly',
+                'Keith Earls',
+                'Chritian Wade',
+            ],
+        },
+        {
+            'Who is the only player to play for the lions in three different decades?': [
+                'Dai Young',
+                'Brian O Driscoll',
+                'Derek Quinell',
+                'Willie John McBride',
+            ],
+        },
+        {
+            'Which player has won most caps for the British and Irish Lions?': [
+                'Willie John McBride',
+                'Alun Wynn Jones',
+                'Dickie Jeeps',
+                'Graham Price',
+            ],
+        },
+        {
+            'Who did the British and Irish Lions play in their first ever game?': [
+                'Otago',
+                'New South Wales',
+                'Canterbury',
+                'Queensland',
+            ],
+        },
+        {
+            'How many former Rugby League players were selected for the British and Irish Lions nineteen ninety seven tour of South Africa?': [
+                'six',
+                'five',
+                'three',
+                'four',
+            ],
+        },
+        {
+            'Who is the British and Irish Lions all time top try scorer?': [
+                'Tony O Reilly',
+                'J J Wiliiams',
+                'Malcolm Price',
+                'Alf Butcher',
             ],
         },
     ],
     QUESTIONS_EN_US: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'Who won the ninteen eighty-seven Rugby World Cup?': [
+                'New Zealand',
+                'France',
+                'Wales',
+                'Australia',
+                'England',
             ],
         },
         {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
-                'Canada',
-                'Norway',
+            'Who won the ninteen ninety Rugby World Cup?': [
+                'Australia',
+                'England',
+                'New Zealand',
+                'Scotland',
+                'South Africa',
+            ],
+        },
+        {
+            'Who won the ninteen ninety-five Rugby World Cup?': [
+                'South Africa',
+                'New Zealand',
+                'France',
+                'England',
+            ],
+        },
+        {
+            'Who won the ninteen ninety-nine Rugby World Cup?': [
+                'Australia',
+                'France',
+                'South Africa',
+                'New Zealand',
+            ],
+        },
+        {
+            'Who won the two thousand and three Rugby World Cup?': [
+                'England',
+                'Australia',
+                'New Zealand',
                 'France',
             ],
         },
         {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
+            'Who won the two thousand and seven Rugby World Cup?': [
+                'South Africa',
+                'England',
+                'Argentina',
+                'France',
             ],
         },
         {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
+            'Who won the two thousand and eleven Rugby World Cup?': [
+                'New Zealand',
+                'France',
+                'Australia',
+                'Wales',
             ],
         },
         {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
+            'Who won the two thousand and fifteen Rugby World Cup?': [
+                'New Zealand',
+                'Australia',
+                'South Africa',
+                'Argentina',
             ],
         },
         {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
-            ],
-        },
-        {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
-            ],
-        },
-        {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
-            ],
-        },
-        {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
-            ],
-        },
-        {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
-            ],
-        },
-        {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J K  Rowling',
-            ],
-        },
-        {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
-            ],
-        },
-        {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
-            ],
-        },
-        {
-            'Including Rudolph, how many reindeer hooves are there?': [
-                '36',
-                '24',
-                '16',
-                '8',
-            ],
-        },
-        {
-            'Santa only has one female reindeer, Which one is it?': [
-                'Vixen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
-            ],
-        },
-        {
-            'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
-            ],
-        },
-        {
-            'What was Rudolph\'s father\'s name?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
-            ],
-        },
-        {
-            'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
-            ],
-        },
-        {
-            'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-                'Black mud',
-                'Bag',
-                'Pillow case',
-                'Sock',
-            ],
-        },
-        {
-            'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-                'Dentist',
-                'Reindeer',
-                'Toy maker',
-                'Candlestick maker',
-            ],
-        },
-        {
-            'In the 1964 movie,what was the Bumble\'s one weakness?': [
-                'Could not swim',
-                'Always hungry',
-                'Candy canes',
-                'Cross eyed',
-            ],
-        },
-        {
-            'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-                'Peppermint',
-                'Gold',
-                'India',
-                'Polar Bears',
-            ],
-        },
-        {
-            'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-                'Square wheels',
-                'No Engine',
-                'Paint does not match',
-                'It does not toot',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the Jack in the Box?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
-            ],
-        },
-        {
-            'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-                'Storm',
-                'No snow',
-                'No toys',
-                'The Reindeer were sick',
-            ],
-        },
-        {
-            'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-                'Oink',
-                'Growl',
-                'Bark',
-                'Meow',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the prospector?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
-            ],
-        },
-        {
-            'How far do reindeer travel when they migrate?': [
-                '3000 miles',
-                '700 miles',
-                '500 miles',
-                '0 miles',
-            ],
-        },
-        {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
-            ],
-        },
-    ],
-    QUESTIONS_DE_DE: [
-        {
-            'Rentiere haben ein sehr dickes Fell, Wie viele Haare pro Quadratzentimeter haben sie?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
-            ],
-        },
-        {
-            'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in? ': [
-                'Japan',
+            'Where was the ninteen ninety five Rugby World Cup played?': [
+                'South Africa',
+                'England',
                 'USA',
-                'Finnland',
-                'Deutschland',
-                'Kanada',
-                'Norwegen',
-                'Frankreich',
+                'Japan',
             ],
         },
         {
-            'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen, Wie heißt sie?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pfeffer Minstix',
+            'Who hosted the two thousand and seven Rugby World Cup?': [
+                'France',
+                'England',
+                'Australia',
+                'Wales',
             ],
         },
         {
-            'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle ': [
-                'Weiblich',
-                'Männlich',
-                'Weiblich und männlich',
-                'Kann man nicht sagen',
+            'Who hosted the two thousand and eleven Rugby World Cup?': [
+                'New Zealand',
+                'Australia',
+                'England',
+                'South Afria',
+                'Germany'
             ],
         },
         {
-            'Was essen Rentiere?': [
-                'Flechten',
-                'Gras',
-                'Blätter',
-                'Beeren',
+            'Who hosted the two thousand and three Rugby World Cup?': [
+                'Australia',
+                'South Africa',
+                'New Zealand',
+                'England',
             ],
         },
         {
-            'Welche Aussage ist nicht richtig?': [
-                'Karibus leben auf allen Kontinenten',
-                'Karibus und Rentiere gehören derselben Gattung an ',
-                'Karibus sind größer als Rentiere',
-                'Rentiere leben in Skandinavien und Russland',
+            'Which nation has won the Rugby World Cup the most times?': [
+                'New Zealand',
+                'South Africa',
+                'Australia',
+                'England',
             ],
         },
         {
-            'In welchem Jahr kam Rudolph ins Fernsehen?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
+            'Which country has been the Rugby World Cup runner up the most number of times?': [
+                'France',
+                'England',
+                'Australia',
+                'New Zealand',
             ],
         },
         {
-            'Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
+            'How many times have France been runners up in the Rugby World Cup?': [
+                'three',
+                'two',
+                'one',
+                'four',
             ],
         },
         {
-            'Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
+            'Which country scored the most points in a single Rugby World Cup match?': [
+                'New Zealand',
+                'South Africa',
+                'Australia',
+                'France',
             ],
         },
         {
-            'Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
+            'How many points is the highest points scored in a Rugby World Cup match?': [
+                'one hundred and forty five',
+                'one hundred and twelve',
+                'one hundred and forty',
+                'one hundred and twenty five',
             ],
         },
         {
-            'Wer hat die Geschichte von Rudolph erfunden?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J K  Rowling',
+            'How many points in the biggest winning margin in a Rugby World Cup match?': [
+                'one hundred and forty two',
+                'one hundred and thirty',
+                'one hundred and one',
+                'one hundred and fifteen',
             ],
         },
         {
-            'Wo findest du keine Rentiere?': [
-                'Nordpol',
-                'Lappland',
-                'Korvatunturi Berge',
-                'Finnland',
+            'Which country won by the biggest margin in a Rugby World Cup match?': [
+                'Australia',
+                'South Africa',
+                'New Zealand',
+                'England',
             ],
         },
         {
-            'Warum können die Rentiere des Weihnachtsmanns fliegen?': [
-                'Magischer Staub der Rentiere',
-                'Fusion',
-                'Amanita muscaria',
-                'Elfen',
+            'Which player is the highest points scorer in Rugby World Cup history?': [
+                'Johnn Wilkinson',
+                'Gavin Hastings',
+                'Dan Carter',
+                'Michael Lynagh',
             ],
         },
         {
-            'Wieviele Rentierhufe gibt es hier einschließlich Rudolph?': [
-                '36',
-                '24',
-                '16',
-                '8',
+            'Who has scored the most successful drop goals in Rugby World Cup history?': [
+                'Johnny Wilkinson',
+                'Dan Carter',
+                'Michael Lynagh',
+                'Johnny Sexton',
             ],
         },
         {
-            'Der Weihnachtsmann hat nur ein weibliches Rentier, Wie heißt es?': [
-                'Blitzen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
+            'Which player has kicked the most successful penalties in Rugby World Cup history?': [
+                'Johnny Wilkinson',
+                'Dan Carter',
+                'Michael Lynagh',
+                'Grant Fox',
             ],
         },
         {
-            'Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
+            'Which player has scored the most points in a single Rugby World Cup match?': [
+                'Gavin Hastings',
+                'Matt Rogers',
+                'Dan Carter',
+                'Johnny Wilkinson',
             ],
         },
         {
-            'Wie hieß der Vater von Rudolph?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
+            'Which played is tied with Jonah Lomu as top try score across all Rugby World Cups?': [
+                'Bryan Habana',
+                'Drew Mitchell',
+                'Adam Ashley-Cooper',
+                'Doug Howlett',
             ],
         },
         {
-            'Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
+            'Along with Bryan Habana and Jonah Lomu, who is the only other player to have scored 8 tries in one Rugby World Cup tournament?': [
+                'Julian Savea',
+                'Marc Ellis',
+                'Drew Mitchell',
+                'Joe Rokocoko',
             ],
         },
         {
-            'Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
+            'Who was the youngest try scorer in a Rugby World Cup game?': [
+                'George North',
+                'Jonah Lomu',
+                'Francois Steyn',
+                'Josh Lewsey',
             ],
         },
         {
-            'Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?': [
-                'Schwarzer Schlamm',
-                'Sack',
-                'Kissenbezug',
-                'Socke',
+            'Which player has kicked the most successful conversions in Rugby World Cup history?': [
+                'Dan Carter',
+                'Gavin Hastings',
+                'Johnny Wilkinson',
+                'Michael Lynagh',
             ],
         },
         {
-            'Was möchte die Misfit Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
-                'Zahnarzt',
-                'Rentier',
-                'Spielzeugmacher',
-                'Kerzenmacher',
+            'Which player along with Richie McCaw has made the most appearances in the final stages of the Rugby World Cup?': [
+                'Jason Leonard',
+                'George Gregan',
+                'Schalk Burger',
+                'Dan Carter',
             ],
         },
         {
-            'Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?': [
-                'Konnte nicht schwimmen',
-                'War immer hungrig',
-                'Zuckerstangen',
-                'Schielte',
+            'Which player has made the most winning appearences in the final stages of the Rugby World Cup?': [
+                'Richie McCaw',
+                'Kevin Mealamu',
+                'Jason Leonard',
+                'George Gregan',
             ],
         },
         {
-            'Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?': [
-                'Pfefferminz',
-                'Gold',
-                'Indien',
-                'Polarbären',
+            'Who is the oldest player to play in a Rugby World Cup match?': [
+                'Brad Thorn',
+                'Richie McCaw',
+                'Jason Leonard',
+                'George Gregan',
             ],
         },
         {
-            'Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?': [
-                'Viereckige Räder',
-                'Keine Dampfmaschine',
-                'Farbe stimmt nicht',
-                'Pfeift nicht',
+            'Who is the oldest player to win a Rugby World Cup?': [
+                'Brad Thorn',
+                'Jason Leonard',
+                'Richie McCaw',
+                'Matt Dawson',
             ],
         },
         {
-            'Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
+            'Who is the oldest player to ever appear in a Rugby World Cup match?': [
+                'Diego Ormaechea',
+                'Victor Matfield',
+                'Brad Thorn',
+                'Mauro Bergamasco',
             ],
         },
         {
-            'Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?': [
-                'Sturm',
-                'Kein Schnee',
-                'Kein Spielzeug',
-                'Die Rentiere waren krank',
+            'Who is the youngest player to win a Rugby World Cup final?': [
+                'Francois Steyn',
+                'Jonah Lomu',
+                'J P Pieterson',
+                'Zac Guildford',
             ],
         },
         {
-            'Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?': [
-                'Oink',
-                'Knurr',
-                'Wauwau',
-                'Miau',
+            'Who received the first red card in Rugby World Cup history?': [
+                'Huw Richards',
+                'David Codey',
+                'Pedro Sporleder',
+                'Matt Keenan',
             ],
         },
         {
-            'Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
+            'Who is the youngest player to appear in a Rugby World Cup final?': [
+                'Jonah Lomu',
+                'Francois Steyn',
+                'Aaron Cruden',
+                'J P Pieterson',
             ],
         },
         {
-            'Wie weit ziehen Rentiere auf ihren Wanderungen?': [
-                '4800 km',
-                '1100 km',
-                '800 km',
-                '0 km',
+            'In total, how many red cards have been given out in Rugby World Cup history?': [
+                'seventeen',
+                'twelve',
+                'fifteen',
+                'fourteen',
             ],
         },
         {
-            'Wie schnell läuft ein Rentier?': [
-                '77 km pro Stunde',
-                '27 km pro Stunde',
-                '30 km pro Stunde',
-                '22 km pro Stunde',
-                '83 km pro Stunde',
-                '65 km pro Stunde',
+            'Which country is equal with Canada for most red cards given in Rugby World cup history?': [
+                'Tonga',
+                'Samoa',
+                'South Africa',
+                'Wales',
+            ],
+        },
+        {
+            'Which country has scored the most hat-tricks in Rugby World Cup history?': [
+                'New Zealand',
+                'Australia',
+                'France',
+                'England',
+            ],
+        },
+        {
+            'Which match had the highest attendance in Rugby World Cup History?': [
+                'Ireland versus Romania - two thousand and fifteen',
+                'England versus Australia - two thousand and three',
+                'New Zealand versus France - two thousand and seven',
+                'New Zealand versus Argentina - two thousand and fifteen',
+            ],
+        },
+        {
+            'Which stadium was the first to host a Rugby World Cup Final twice?': [
+                'Eden Park',
+                'Twickenham',
+                'Millenium Stadium',
+                'Stadium Australia',
+            ],
+        },
+        {
+            'Who is the all time top points scorer in International Rugby?': [
+                'Dan Carter',
+                'Johnny Wilkinson',
+                'Neil Jenkins',
+                'Ronan O Gara',
+            ],
+        },
+        {
+            'How many points did Dan Carter score in International Rugby?': [
+                'one thousand five hundred and nintety eight',
+                'one thousand and fifty-nine',
+                'one thousand two hundred and seven',
+                'one thousand four hundred and twenty-one',
+            ],
+        },
+        {
+            'Who is top try scorer in International Rugby history?': [
+                'Daisuke Ohata',
+                'David Campese',
+                'Shane Williams',
+                'Rory Underwood',
+            ],
+        },
+        {
+            'Who is the highest scoring forward in International Rugby history?': [
+                'Diego Ormaechea',
+                'Richie McCaw',
+                'Marmuka Gorgodze',
+                'Kieran Reid',
+            ],
+        },
+        {
+            'Who has scored the most drop goals in International Rugby history?': [
+                'Johnny Wilkinson',
+                'Hugo Porta',
+                'Rob Andrew',
+                'Diego Dominguez',
+            ],
+        },
+        {
+            'Who is the leading try scorer in Tier one International Rugby history?': [
+                'Brian Habana',
+                'David Campese',
+                'Shane Williams',
+                'Rory Underwood',
+            ],
+        },
+        {
+            'Who is the most capped played in Rugby Union history?': [
+                'Richie McCaw',
+                'Brian O Driscoll',
+                'George Gregan',
+                'Sergio Parisse',
+            ],
+        },
+        {
+            'Who is the most capped forward in Rugby Union history?': [
+                'Richie McCaw',
+                'Keven Mealamu',
+                'Sergio Parisse',
+                'Gethin Jenkins',
+            ],
+        },
+        {
+            'Who is the most capped back in Rugby Union history?': [
+                'Brian O Driscoll',
+                'George Gregan',
+                'Ronan O Gara',
+                'Brian Habana',
+            ],
+        },
+        {
+            'Which currently still active player appears highest on the all time test caps list?': [
+                'Sergio Parissa',
+                'Alun Wynn Jones',
+                'Brian Habana',
+                'Adam Ashley Cooper',
+            ],
+        },
+        {
+            'Who is highest points scorer in Six Nations history?': [
+                'Ronan O Gara',
+                'Johnny Wilkinson',
+                'Stephen Jones',
+                'Neil Jenkins',
+            ],
+        },
+        {
+            'Who has scored the most tries in the Six Nations?': [
+                'Brian O Driscoll',
+                'Chris Ashton',
+                'Rory Underwood',
+                'Shane Williams',
+            ],
+        },
+        {
+            'Who scored the most number of points in a Six Nations match?': [
+                'Johnny Wilkinson',
+                'Ronan O Gara',
+                'Johnny Sexton',
+                'Lee Halfpenny',
+            ],
+        },
+        {
+            'Which back has the most appearances in the Six Nations?': [
+                'Brian O Driscoll',
+                'Ronan O Gara',
+                'Chris Patterson',
+                'Stephen Jones',
+            ],
+        },
+        {
+            'Which forward has the most appearances in the Six Nations?': [
+                'Sergio Parisse',
+                'Rory Best',
+                'Gethin Jenkins',
+                'Jason Leonard',
+            ],
+        },
+        {
+            'In the Six Nations, which country has 5 players out of the top ten most appearances list?': [
+                'Ireland',
+                'England',
+                'Scotland',
+                'Wales',
+            ],
+        },
+        {
+            'How many tries has Brian O Driscoll scored in the Six Nations?': [
+                'twenty-six',
+                'twenty',
+                'twenty-two',
+                'twenty-four',
+            ],
+        },
+        {
+            'Which nation has won the Six Nations the most times?': [
+                'England',
+                'France',
+                'Wales',
+                'Ireland',
+            ],
+        },
+        {
+            'Along with Wales, which country has won three grand slams in the Six Nations?': [
+                'France',
+                'England',
+                'Ireland',
+                'Scotland',
+            ],
+        },
+        {
+            'In the Six Nations, which country has won the wooden spoon the most?': [
+                'Italy',
+                'Scotland',
+                'Wales',
+                'France',
+            ],
+        },
+        {
+            'Who has scored the most points in Super Rugby history?': [
+                'Dan Carter',
+                'Stirling Mortlock',
+                'Andrew Mehrtens',
+                'Matt Burke',
+            ],
+        },
+        {
+            'Who has scored the most tries in Super Rugby history?': [
+                'Doug Howlett',
+                'Caleb Ralph',
+                'Joe Roff',
+                'Christian Cullen',
+            ],
+        },
+        {
+            'Who has made the most appearances in Super Rugby history?': [
+                'Nathan Sharpe',
+                'Stirling Mortlock',
+                'George Gregan',
+                'Caleb Ralph',
+            ],
+        },
+        {
+            'Who is the oldest player to have played in Super Rugby?': [
+                'Tana Umaga',
+                'Brad Thorn',
+                'Richie McCaw',
+                'Kieran Reid',
+            ],
+        },
+        {
+            'Who is the youngest played to have played in Super Rugby?': [
+                'James O Connor',
+                'Zac Guildford',
+                'Francois Steyn',
+                'Aaron Cruden',
+            ],
+        },
+        {
+            'Which team has won the most Super Rugby titles?': [
+                'Crusaders',
+                'Brumbies',
+                'Blues',
+                'Bulls',
+            ],
+        },
+        {
+            'What is the highest combined score in Super Rugby history?': [
+                'one hundred and thirty seven',
+                'one hundred and two',
+                'one hundred and twenty-one',
+                'one hundred and fifty-two',
+            ],
+        },
+        {
+            'Who scored the fastest try in Super Rugby history?': [
+                'Brian Habana',
+                'Doug Howlett',
+                'Christian Cullen',
+                'Joe Roff',
+            ],
+        },
+        {
+            'Which team scored the most tries in one season of Super Rugby? And how many tries did they score?': [
+                'Hurricanes with ninety-seven',
+                'Crusaders with one hundred and one',
+                'Lions with ninety-two',
+                'Stormers with ninety',
+            ],
+        },
+        {
+            'How many points did Gavin Lawless score in a single game to break the points scored in one Super Rugby match record?': [
+                'fifty',
+                'forty',
+                'forty-four',
+                'forty-seven',
+            ],
+        },
+        {
+            'Which team has won the Aviva Premiership the most number of times?': [
+                'Leicester Tigers',
+                'Bath',
+                'Saracens',
+                'Wasps',
+            ],
+        },
+        {
+            'Which played has most the most appearances in the Aviva Premiership?': [
+                'Steve Borthwick',
+                'George Chuter',
+                'Phil Dowson',
+                'Charlie Hodgson',
+            ],
+        },
+        {
+            'Which player has scored the most points in the Aviva Premiership?': [
+                'Charlie Hodgson',
+                'Andy Goode',
+                'Stephen Myler',
+                'Owen Farrell',
+            ],
+        },
+        {
+            'Who is the top try scorer in the Aviva Premiership?': [
+                'Tom Varndell',
+                'Mark Cueto',
+                'Chris Ashton',
+                'Christian Wade',
+            ],
+        },
+        {
+            'Which Aviva Premiership team plays at Sandy Park?': [
+                'Exeter Chiefs',
+                'Leicester Tigers',
+                'Newcastle Falcons',
+                'Gloucester',
+            ],
+        },
+        {
+            'Who is the heaviest player to have appeared in the Aviva Premiership?': [
+                'Biyi Alo',
+                'James Johnston',
+                'Will Skelton',
+                'Tony Buckley',
+            ],
+        },
+        {
+            'In the Aviva Premiership, who is the only forward to appear on the top ten try scorers list?': [
+                'Neil Back',
+                'Thomas Waldrom',
+                'Nick Easter',
+                'Dan Braid',
+            ],
+        },
+        {
+            'A lion dressed in a roman warrior outfit is the mascot for which Aviva Premiership team?': [
+                'Bath',
+                'Leicester',
+                'London Irish',
+                'Gloucester',
+            ],
+        },
+        {
+            'Which Aviva premiership team has the highest capacity stadium': [
+                'Wasps',
+                'Leicester Tigers',
+                'Gloucester',
+                'Northampton Saints',
+            ],
+        },
+        {
+            'In the Aviva Premiership, how many teams automatically quality for the European Champions Cup?': [
+                'six',
+                'seven',
+                'four',
+                'five',
+            ],
+        },
+        {
+            'How many people are in a scrum?': [
+                'sixteen',
+                'eight',
+                'fourteen',
+                'seven',
+            ],
+        },
+        {
+            'How far must the ball travel from a kick off?': [
+                '10 meters',
+                '15 meters',
+                '5 meters',
+                '20 meters',
+            ],
+        },
+        {
+            'What is the minimum number of players from each team required to form a line out?': [
+                'two players',
+                'one player',
+                'three players',
+                'six players',
+            ],
+        },
+        {
+            'A deliberate forward pass results in a penalty, but an accidental forward pass results in?': [
+                'a scrum',
+                'a penalty',
+                'a free kick',
+                'play on',
+            ],
+        },
+        {
+            'What happens if a player receives a second yellow card?': [
+                'They get sent off for the rest of the match',
+                'They go off for ten minutes',
+                'They go off for fifteen minutes',
+                'Nothing',
+            ],
+        },
+        {
+            'When a referee shouts USE IT, how long do you have to play the ball?': [
+                'five seconds',
+                'three seconds',
+                'two seconds',
+                'four seconds',
+            ],
+        },
+        {
+            'Which of these offences has the longest ban?': [
+                'testicle grabbing',
+                'punching',
+                'eye gouging',
+                'stamping',
+            ],
+        },
+        {
+            'Typically, which number shirt does the replacement hooker wear?': [
+                'sixteen',
+                'seventeen',
+                'eighteen',
+                'nineteen',
+            ],
+        },
+        {
+            'What is the name of the Britsh and Irish Lions lion mascot?': [
+                'Bill',
+                'Leo',
+                'Dave',
+                'Simba',
+            ],
+        },
+        {
+            'Who is the top points scorer for the British and Irish Lions in test matches?': [
+                'Johnny Wilkinson',
+                'Stephen Jones',
+                'Gavin Hastings',
+                'Lee Halfpenny',
+            ],
+        },
+        {
+            'Who is the only New Zealand born player to play for and against the Lions?': [
+                'Riki Flutey',
+                'Mako Vunipola',
+                'Dylan Hartley',
+                'Sean Maitland',
+            ],
+        },
+        {
+            'Which country have the British and Irish Lions played but never beaten?': [
+                'Fiji',
+                'Canada',
+                'France',
+                'Argentina',
+            ],
+        },
+        {
+            'Who captained New Zealand to their three nil whitewash of the Lions in two thousand and five?': [
+                'Tana Umaga',
+                'Dan Carter',
+                'Keven Mealamu',
+                'Richie McCaw',
+            ],
+        },
+        {
+            'Who was the first played to captain the British and Irish Lions on two tours?': [
+                'Martin Johnson',
+                'Sam Warburton',
+                'Brian O Driscoll',
+                'Willie John McBride',
+            ],
+        },
+        {
+            'Who was the last player to represent the British and Irish Lions before even winning their first international cap?': [
+                'Will Greenwood',
+                'Elliot Daly',
+                'Keith Earls',
+                'Chritian Wade',
+            ],
+        },
+        {
+            'Who is the only player to play for the lions in three different decades?': [
+                'Dai Young',
+                'Brian O Driscoll',
+                'Derek Quinell',
+                'Willie John McBride',
+            ],
+        },
+        {
+            'Which player has won most caps for the British and Irish Lions?': [
+                'Willie John McBride',
+                'Alun Wynn Jones',
+                'Dickie Jeeps',
+                'Graham Price',
+            ],
+        },
+        {
+            'Who did the British and Irish Lions play in their first ever game?': [
+                'Otago',
+                'New South Wales',
+                'Canterbury',
+                'Queensland',
+            ],
+        },
+        {
+            'How many former Rugby League players were selected for the British and Irish Lions nineteen ninety seven tour of South Africa?': [
+                'six',
+                'five',
+                'three',
+                'four',
+            ],
+        },
+        {
+            'Who is the British and Irish Lions all time top try scorer?': [
+                'Tony O Reilly',
+                'J J Wiliiams',
+                'Malcolm Price',
+                'Alf Butcher',
             ],
         },
     ],

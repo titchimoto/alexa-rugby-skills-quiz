@@ -1,0 +1,19 @@
+{
+  "name": "skill-sample-nodejs-trivia",
+  "version": "1.0.0",
+  "description": "Regions: [🇯🇵](../../tree/ja-JP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titchimoto/alexa-rugby-skills-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titchimoto/alexa-rugby-skills-quiz.git/issues"
+  },
+  "homepage": "https://github.com/titchimoto/alexa-rugby-skills-quiz.git#readme"
+}
