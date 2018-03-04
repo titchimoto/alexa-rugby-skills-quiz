@@ -642,7 +642,7 @@ module.exports = {
             ],
         },
         {
-            'In the Aviva Premiership, how many teams automatically quality for the European Champions Cup?': [
+            'In the Aviva Premiership, how many teams automatically qualify for the European Champions Cup?': [
                 'six',
                 'seven',
                 'four',
@@ -1447,7 +1447,7 @@ module.exports = {
             ],
         },
         {
-            'In the Aviva Premiership, how many teams automatically quality for the European Champions Cup?': [
+            'In the Aviva Premiership, how many teams automatically qualify for the European Champions Cup?': [
                 'six',
                 'seven',
                 'four',
